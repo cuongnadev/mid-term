@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Bàn phím cơ không dây AKKO 3087 Multi-mode",
+    "price": 1450000,
+    "soluong": 25,
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&q=80"
+  },
+  {
+    "name": "Chuột Gaming không dây Logitech G Pro X Superlight",
+    "price": 2890000,
+    "soluong": 12,
+    "image": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=800&q=80"
+  },
+  {
+    "name": "Tai nghe Bluetooth chống ồn Sony WH-1000XM5",
+    "price": 7490000,
+    "soluong": 4,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&q=80"
+  },
+  {
+    "name": "Màn hình Gaming Asus ROG Swift 27 inch 2K 180Hz",
+    "price": 8990000,
+    "soluong": 6,
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=800&q=80"
+  },
+  {
+    "name": "Loa Bluetooth di động Marshall Emberton II",
+    "price": 3690000,
+    "soluong": 18,
+    "image": "https://images.unsplash.com/photo-1545454675-3531b543be5d?w=800&q=80"
+  },
+  {
+    "name": "Đồng hồ thông minh Apple Watch Series 9 GPS 45mm",
+    "price": 9890000,
+    "soluong": 2,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&q=80"
+  },
+  {
+    "name": "Ổ cứng SSD di động Kingston XS2000 1TB Type-C",
+    "price": 2150000,
+    "soluong": 30,
+    "image": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?w=800&q=80"
+  },
+  {
+    "name": "Balo Laptop chống nước Tomtoc Urban Defender 15.6 inch",
+    "price": 1190000,
+    "soluong": 45,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&q=80"
+  },
+  {
+    "name": "Đèn bàn làm việc LED thông minh chống cận Yeelight",
+    "price": 650000,
+    "soluong": 0,
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=800&q=80"
+  },
+  {
+    "name": "Bộ sạc nhanh đa năng Anker GaNPrime 65W 3 cổng",
+    "price": 890000,
+    "soluong": 35,
+    "image": "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?w=800&q=80"
+  }
+]
